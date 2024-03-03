@@ -5,12 +5,6 @@ n![Header](./github-header-image.png)
 
 <img align = "right" width="400" alt="coding" src = "https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 <br>
-<br>
-
-
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/utkarshtaneja4" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/utkarshtaneja4?logo=twitter&style=for-the-badge" alt="https://twitter.com/utkarshtaneja4" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/utkarshtaneja4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/utkarshtaneja4" height="30" width="40" /></a>
